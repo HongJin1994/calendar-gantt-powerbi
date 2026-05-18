@@ -35,3 +35,4 @@ English:
 - Adds selection support across Power BI visuals.
 - Adds keyboard navigation and keyboard selection support.
 - Adds official Power BI tooltip service support.
+- Fixes category color stability so the same category keeps the same color across all bars.
